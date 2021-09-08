@@ -172,11 +172,11 @@
   "moreapp_config": {
     "moreapp": [
        {
-        "title": "KNY Wallpaper HD 4K",
+        "title": "KNY Onet Classic Game",
         "text": "",
-        "iconUrl": "https://i.pinimg.com/564x/eb/09/22/eb0922ac3bcdd8aa5fd650db010cdc67.jpg",
-        "mainImageUrl": "https://i.pinimg.com/1200x/93/9a/f1/939af19a029342a4af29c22117eef610.jpg",
-        "actionUrl": "com.shinobi.kimetsu.wallpaper",
+        "iconUrl": "https://i.pinimg.com/564x/72/27/0a/72270a0ebdf2b93b835c86bfc40def9a.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/84/7f/ab/847fab8d0d8865dd4270fd46eb4adc5a.jpg",
+        "actionUrl": "com.shinobi.kny.connect",
         "stars": 5,
         "numberOfUser": 100000
       },
