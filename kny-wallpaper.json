@@ -99,19 +99,6 @@
       }
     ]
   },
-  "update_config": {
-    "enable": true,
-    "versionCode": 1,
-    "versionName": "1.0",
-    "title": "Update the new version",
-    "message": "Update the app now to get more photos"
-  },
-  "redirect_config": {
-    "enable": false,
-    "title": "",
-    "message": "",
-    "url": ""
-  },
   "fanpage_config": {
     "fanpage": [
       {
@@ -128,44 +115,6 @@
         "link": "https://www.facebook.com/groups/1847720275406083",
         "target": "def",
         "enable": true
-      }
-    ]
-  },
-  "youtube_config": {
-    "youtube": [
-      {
-        "link": "",
-        "target": "us",
-        "enable": false
-      },
-      {
-        "link": "",
-        "target": "vn",
-        "enable": false
-      },
-      {
-        "link": "",
-        "target": "def",
-        "enable": false
-      }
-    ]
-  },
-  "shopping_config": {
-    "shopping": [
-      {
-        "link": "",
-        "target": "us",
-        "enable": false
-      },
-      {
-        "link": "",
-        "target": "vn",
-        "enable": false
-      },
-      {
-        "link": "",
-        "target": "def",
-        "enable": false
       }
     ]
   },
