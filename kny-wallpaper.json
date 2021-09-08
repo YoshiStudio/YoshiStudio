@@ -1,0 +1,203 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "unity"
+    ],
+    "ad_time": 40,
+    "ad_spacing": 2,
+    "ad_model": [
+      {
+        "name": "unity",
+        "app_id": "4299629",
+        "banner_id": "Banner_Android",
+        "popup_id": "Interstitial_Android",
+        "reward_id": "Rewarded_Android"
+      }
+    ]
+  },
+  "album_config": {
+    "album": [
+      {
+        "id": "nezuko",
+        "name": "Nezuko",
+        "thumb": ""
+      },
+      {
+        "id": "tanjirou",
+        "name": "Tanjirou",
+        "thumb": ""
+      },
+      {
+        "id": "inosuke",
+        "name": "Inosuke",
+        "thumb": ""
+      },
+      {
+        "id": "zenitsu",
+        "name": "Zenitsu",
+        "thumb": ""
+      },
+      {
+        "id": "rengoku",
+        "name": "Rengoku",
+        "thumb": ""
+      },
+      {
+        "id": "giyu",
+        "name": "Giyu",
+        "thumb": ""
+      },
+      {
+        "id": "shinobu",
+        "name": "Shinobu",
+        "thumb": ""
+      },
+      {
+        "id": "kanao",
+        "name": "Kanao",
+        "thumb": ""
+      },
+      {
+        "id": "mitsuri",
+        "name": "Mitsuri",
+        "thumb": ""
+      },
+      {
+        "id": "uzui",
+        "name": "Uzui",
+        "thumb": ""
+      },
+      {
+        "id": "himejima",
+        "name": "Himejima",
+        "thumb": ""
+      },
+      {
+        "id": "iguro",
+        "name": "Iguro",
+        "thumb": ""
+      },
+      {
+        "id": "muichiro",
+        "name": "Muichiro",
+        "thumb": ""
+      },
+      {
+        "id": "sanemi",
+        "name": "Sanemi",
+        "thumb": ""
+      },
+      {
+        "id": "demon",
+        "name": "Demons",
+        "thumb": ""
+      },
+      {
+        "id": "others",
+        "name": "Others",
+        "thumb": ""
+      }
+    ]
+  },
+  "update_config": {
+    "enable": true,
+    "versionCode": 1,
+    "versionName": "1.0",
+    "title": "Update the new version",
+    "message": "Update the app now to get more photos"
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "",
+    "message": "",
+    "url": ""
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/1847720275406083",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/1847720275406083",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/1847720275406083",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
+  "youtube_config": {
+    "youtube": [
+      {
+        "link": "",
+        "target": "us",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "vn",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "def",
+        "enable": false
+      }
+    ]
+  },
+  "shopping_config": {
+    "shopping": [
+      {
+        "link": "",
+        "target": "us",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "vn",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "def",
+        "enable": false
+      }
+    ]
+  },
+  "moreapp_config": {
+    "moreapp": [
+       {
+        "title": "KNY Wallpaper HD 4K",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/eb/09/22/eb0922ac3bcdd8aa5fd650db010cdc67.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/93/9a/f1/939af19a029342a4af29c22117eef610.jpg",
+        "actionUrl": "com.shinobi.kimetsu.wallpaper",
+        "stars": 5,
+        "numberOfUser": 100000
+      },
+       {
+        "title": "KNY Shimeji",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/91/0d/14/910d14ec0d69d01ad903e59884a8b800.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/d2/3f/8d/d23f8da01814cffc098916eb138912c8.jpg",
+        "actionUrl": "com.shinobi.kny.shimeji",
+        "stars": 5,
+        "numberOfUser": 100000
+      },
+	   {
+        "title": "KNY Stickers",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/50/dd/f5/50ddf531031cf093c3e10164d9984ce2.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/0f/79/8f/0f798f461763e40ce0f749123948c42b.jpg",
+        "actionUrl": "com.anbu.kny.sticker",
+        "stars": 5,
+        "numberOfUser": 100000
+      }
+	]
+  }
+}
