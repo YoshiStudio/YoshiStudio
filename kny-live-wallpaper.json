@@ -1,0 +1,76 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 40,
+    "ad_spacing": 3,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-9863416787984619~",
+        "banner_id": "ca-app-pub-9863416787984619/",
+        "popup_id": "ca-app-pub-9863416787984619/",
+        "reward_id": ""
+      },
+      {
+        "name": "unity",
+        "app_id": "4299123",
+        "banner_id": "Banner_Android",
+        "popup_id": "Interstitial_Android",
+        "reward_id": "Rewarded_Android"
+      }
+    ]
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/1847720275406083",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/1847720275406083",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/1847720275406083",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
+  "moreapp_config": {
+    "moreapp": [
+       {
+        "title": "KNY Onet Classic Game",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/72/27/0a/72270a0ebdf2b93b835c86bfc40def9a.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/84/7f/ab/847fab8d0d8865dd4270fd46eb4adc5a.jpg",
+        "actionUrl": "com.shinobi.kny.connect",
+        "stars": 5,
+        "numberOfUser": 100000
+      },
+       {
+        "title": "KNY Shimeji",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/91/0d/14/910d14ec0d69d01ad903e59884a8b800.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/d2/3f/8d/d23f8da01814cffc098916eb138912c8.jpg",
+        "actionUrl": "com.shinobi.kny.shimeji",
+        "stars": 5,
+        "numberOfUser": 100000
+      },
+	   {
+        "title": "KNY Stickers",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/50/dd/f5/50ddf531031cf093c3e10164d9984ce2.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/0f/79/8f/0f798f461763e40ce0f749123948c42b.jpg",
+        "actionUrl": "com.anbu.kny.sticker",
+        "stars": 5,
+        "numberOfUser": 100000
+      }
+	]
+  }
+}
