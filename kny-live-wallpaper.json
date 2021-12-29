@@ -1,19 +1,11 @@
 {
   "ads_config": {
     "ad_waterfall": [
-      "admob",
       "unity"
     ],
     "ad_time": 40,
-    "ad_spacing": 3,
+    "ad_spacing": 2,
     "ad_model": [
-      {
-        "name": "admob",
-        "app_id": "ca-app-pub-9863416787984619~9498970208",
-        "banner_id": "ca-app-pub-9863416787984619/7938476528",
-        "popup_id": "ca-app-pub-9863416787984619/1620480188",
-        "reward_id": ""
-      },
       {
         "name": "unity",
         "app_id": "4366275",
